@@ -1,0 +1,5 @@
+<| syntax example(this is a coment) |>
+
+int main() {
+	console.print(5+5);
+}

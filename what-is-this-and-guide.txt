@@ -1,0 +1,7 @@
+Paradigm: Functional Programming
+Lang of the compiler: C
+
+What Do?
+The folder "LearningProccess" will guide you in how structurate the compiler.
+
+
